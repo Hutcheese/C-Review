@@ -2,3 +2,8 @@
 .vscode/*
 build
 build/*
+*.json
+*.exe
+*.ilk
+*.obj
+*.pdb
